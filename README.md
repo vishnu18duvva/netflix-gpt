@@ -2,6 +2,8 @@
 
 - create react ap
 - configured tailwind css
+- created Header
+- Login Form 
 
 # Features
 - Login / SignUp
