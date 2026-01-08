@@ -3,7 +3,10 @@
 - create react ap
 - configured tailwind css
 - created Header
-- Login Form 
+- routing 
+- Login Form & SignUp Form
+    - Form Validations
+- useRef Hook
 
 # Features
 - Login / SignUp
